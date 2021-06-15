@@ -1,0 +1,6 @@
+0 - activity (que para este caso é "traffic")
+1 - average measured time
+2 - average speed
+3 - vehicle count
+4 - sector where the event happened
+5 - timestamp

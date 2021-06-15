@@ -1,0 +1,113 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://myexample.org#" > 
+  <rdf:Description rdf:about="http://myexample.org#sector1">
+    <j.0:zoneType rdf:resource="http://myexample.org#school_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector4"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector3">
+    <j.0:zoneType rdf:resource="http://myexample.org#traffic_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector6"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector2">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector2"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector3"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector5">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector8"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector6"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector4"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector4">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector7"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector5"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector7">
+    <j.0:zoneType rdf:resource="http://myexample.org#traffic_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector10"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector8"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#urban_area">
+    <j.0:not_accept rdf:resource="http://myexample.org#toxic_air"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#unhealthy_air"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#excess_speed"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#high_speed"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#traffic_area">
+    <j.0:not_accept rdf:resource="http://myexample.org#toxic_air"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#unhealthy_air"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#excess_speed"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector6">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector9"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector5"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector15">
+    <j.0:zoneType rdf:resource="http://myexample.org#traffic_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector14"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector13">
+    <j.0:zoneType rdf:resource="http://myexample.org#school_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector14"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector14">
+    <j.0:zoneType rdf:resource="http://myexample.org#traffic_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector15"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector13"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector11">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector14"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector12"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector10"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector9">
+    <j.0:zoneType rdf:resource="http://myexample.org#school_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector12"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector9"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector12">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector15"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector11"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector8">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector11"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector9"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector7"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#school_area">
+    <j.0:not_accept rdf:resource="http://myexample.org#high_sulfure"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#high_carbon"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#toxic_air"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#unhealthy_air"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#normal_speed"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#excess_speed"/>
+    <j.0:not_accept rdf:resource="http://myexample.org#high_speed"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://myexample.org#sector10">
+    <j.0:zoneType rdf:resource="http://myexample.org#urban_area"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector13"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector11"/>
+    <j.0:adjacent rdf:resource="http://myexample.org#sector7"/>
+  </rdf:Description>
+</rdf:RDF>

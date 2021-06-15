@@ -1,0 +1,8 @@
+0 - activity (que para este caso é "pollution")
+1 - ozone measure
+2 - particullate_matter measure
+3 - carbon_monoxide measure
+4 - sulfure_dioxide measure
+5 - nitrogen_dioxide measure
+6 - sector where the event happened
+7 - timestamp

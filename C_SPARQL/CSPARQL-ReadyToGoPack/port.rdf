@@ -1,0 +1,466 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://streamreasoning.org/ports#" > 
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector29">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector17">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port17"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector33">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port33"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector21">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector6">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port36">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector69">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port69"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port24">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector57">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port57"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port48">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector45">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port45"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port1">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port75">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port23">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port11">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector72">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port72"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector60">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port60"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port63">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port51">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port9">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector28">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector16">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector44">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port44"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector32">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port32"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector20">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port20"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector5">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port25">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port13">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector68">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port68"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port49">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector56">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port56"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port37">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port76">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port64">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port12">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector71">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port71"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port52">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port40">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port8">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector39">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port39"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector27">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port27"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector55">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port55"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector8">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port8"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port18">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector43">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port43"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector31">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port31"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port58">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector15">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port15"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port46">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector67">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port67"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port21">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port45">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port33">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port61">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port7">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port73">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector70">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port70"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector38">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port38"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector66">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port66"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector54">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port54"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector7">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector42">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port42"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector30">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port30"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port19">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector26">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port26"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port47">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port35">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector14">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port14"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port59">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port10">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port34">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port22">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port50">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port74">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port62">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port6">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector49">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port49"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector77">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port77"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port28">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector65">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port65"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector53">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port53"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector41">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port41"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector37">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port37"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port68">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector25">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port25"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector13">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port13"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port16">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port43">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port31">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port67">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port55">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port5">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector40">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port40"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port71">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector2">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port29">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector76">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port76"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port17">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector64">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port64"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector52">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port52"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port69">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector48">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port48"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port57">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector36">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port36"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector24">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector9">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port9"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector12">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port12"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port32">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port20">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port56">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port44">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port72">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector51">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port51"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port60">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port4">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector1">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector19">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port19"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector11">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector75">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port75"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector63">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port63"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port14">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector59">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port59"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector47">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port47"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port38">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector35">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port35"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port26">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector23">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port65">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port53">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port3">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port77">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector4">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector62">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port62"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector50">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port50"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port41">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector18">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port18"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector22">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port22"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port39">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector10">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port10"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector74">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port74"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector58">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port58"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port27">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector46">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector34">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port34"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port15">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port54">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port42">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port2">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#platinum"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port66">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector73">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port73"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector3">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#sector61">
+    <j.0:locates rdf:resource="http://streamreasoning.org/ports#port61"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port30">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#standard"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://streamreasoning.org/ports#port70">
+    <j.0:classify rdf:resource="http://streamreasoning.org/ports#gold"/>
+  </rdf:Description>
+</rdf:RDF>
